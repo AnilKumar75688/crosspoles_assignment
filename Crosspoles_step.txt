@@ -1,0 +1,12 @@
+
+
+Project steps 
+
+1- composer create-project --prefer-dist laravel/laravel Crosspoles_assignment
+2- .env with database name (crosspoles_assignment_db)
+3- remove index.php in url
+4- create migration for country,state,city table 
+5- create migration for User table  
+6- table data insert on country,state,city table
+7- Route create for userlist and user add 
+8- create a controller ---UsersController
